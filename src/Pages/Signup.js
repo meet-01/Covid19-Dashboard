@@ -87,7 +87,7 @@ export default function Signup() {
               </CardBody>
               <CardFooter>
                 <Button type="submit" className="btn btn-dark">
-                  Sign In
+                  Sign up
                 </Button>
               </CardFooter>
             </Form>
