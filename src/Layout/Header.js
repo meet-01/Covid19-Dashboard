@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <Navbar className="head  text-uppercase " expand="md">
       <NavbarBrand href="/" className="text-white">
-        Covid 19 tracker Dashboard
+        Covid 19 Tracker Dashboard
       </NavbarBrand>
 
       <NavbarText className="text-white">
